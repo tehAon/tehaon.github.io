@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-28 mods, 10,256 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+28 mods, 10,336 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -29,7 +29,7 @@ _Install it for yourself, any server._
 - **POI Map** — Every POI Named and Searchable · v0.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
 - **ScoutMap** — MiniMap That Knows the Buildings · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
 - **Control Panel** — Every Mod's Settings and Hotkeys in One Screen · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
-- **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
+- **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **Quest Biome Indicator** — See the Biome Before You Take the Job · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
 - **Materialist** — Material Tracker and Finder · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137)
 - **SteadyView** — Adaptive Graphics That See the Fight Coming · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794)
@@ -43,7 +43,7 @@ _Install it for yourself, any server._
 _Everyone installs it._
 
 - **Accessory Slots** — More Things to Wear · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
-- **Zipline** — Ride a Cable Between Buildings · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
+- **Zipline** — Ride a Cable Between Buildings · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Glider** — Jump Off Anything and Float Down · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 
 ## Either side
@@ -54,4 +54,4 @@ _Works on the server or on your own client._
 
 ---
 
-Generated 2026-09-24 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-09-25 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
