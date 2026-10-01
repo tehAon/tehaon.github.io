@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-29 mods, 10,823 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+29 mods, 10,860 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -20,7 +20,7 @@ _Players install nothing._
 - **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes** · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
-- **Would You Rather** — Pick Your Poison · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
+- **Would You Rather** — Pick Your Poison · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
 
 ## Client
 
@@ -55,4 +55,4 @@ _Works on the server or on your own client._
 
 ---
 
-Generated 2026-09-30 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-01 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
