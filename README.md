@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-29 mods, 10,860 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 11,174 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -18,9 +18,9 @@ _Players install nothing._
 - **Sandbox Settings Randomizer** — Roll a New World Every Time · v0.12.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635)
 - **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
+- **Would You Rather** — Pick Your Poison · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes** · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
-- **Would You Rather** — Pick Your Poison · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
 
 ## Client
 
@@ -46,6 +46,7 @@ _Everyone installs it._
 - **Accessory Slots** — More Things to Wear · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Glider** — Jump Off Anything and Float Down · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
+- **More Biomes** — Swamp and Blended Borders · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 
 ## Either side
 
@@ -53,6 +54,27 @@ _Works on the server or on your own client._
 
 - **Vanilla Fixes** — Four Base-Game Bugs Patched · v1.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332)
 
+## Unreleased
+
+_In progress. Nothing to download yet._
+
+- **Auto Harvest** — Walk Past a Plant, Pick It
+- **Auto Miner** — Look at the Ore and the Seam Gets Mined
+- **Battle Log** — Why Did I Just Die?
+- **Blueprint Ghost** — Save and Project Your Builds
+- **Confetti Shotgun**
+- **Drone Hive** — Purpose-Built Worker Drones
+- **Focus** — Live Goal Coach and XP Meter
+- **Horde Path** — See How Zombies Will Reach You
+- **Master Station** — Put Your Spare Workstations to Work
+- **Party Claims** — Shared Land Claims
+- **Sandbox Tuner**
+- **Storage Portal**
+- **Storefront** — A Real Vending Machine Economy
+- **Trader Radio** — Remote Trader Stock
+- **Trader Transit** — The Trader Radio Network
+- **Turret Targeting** — Tell Your Turrets What to Shoot
+
 ---
 
-Generated 2026-10-01 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-04 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
