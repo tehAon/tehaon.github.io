@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-30 mods, 11,304 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 11,320 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -11,8 +11,8 @@ _Players install nothing._
 - **Fuel On Demand** — Burn Fuel Only While Working · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
 - **Drone Automation Kit** — Junk Drones Do Your Chores · v0.10.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 · v1.8.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
-- **Turret Resupply** — Turrets Reload From Your Ammo Boxes · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
-- **Loot Magnet** — Loot That Collects Itself · v1.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
+- **Turret Resupply** — Turrets Reload From Your Ammo Boxes · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
+- **Loot Magnet** — Loot That Collects Itself · v1.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
 - **SteadyFrame** — Horde-Night Performance · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598)
 - **Mindless Zombies** — Feral Zombie AI · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558)
 - **Sandbox Settings Randomizer** — Roll a New World Every Time · v0.12.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
@@ -32,12 +32,12 @@ _Install it for yourself, any server._
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **Control Panel** — Every Mod's Settings and Hotkeys in One Screen · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
 - **Quest Biome Indicator** — See the Biome Before You Take the Job · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
-- **Materialist** — Material Tracker and Finder · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137)
+- **Materialist** — Material Tracker and Finder · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137)
 - **SteadyView** — Adaptive Graphics That See the Fight Coming · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794)
 - **Sound Radar** — See What You Cannot Hear · v0.10.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
 - **Queue Priority** — Reorder And Split Jobs · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
-- **Fuel Top-Off** — One Key Fuels the Whole Queue · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
+- **Fuel Top-Off** — One Key Fuels the Whole Queue · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 
 ## Server + clients
 
@@ -52,7 +52,7 @@ _Everyone installs it._
 
 _Works on the server or on your own client._
 
-- **Vanilla Fixes** — Four Base-Game Bugs Patched · v1.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332)
+- **Vanilla Fixes** — Four Base-Game Bugs Patched · v1.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332)
 
 ## Unreleased
 
