@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-30 mods, 11,706 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 11,778 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -18,7 +18,7 @@ _Players install nothing._
 - **Sandbox Settings Randomizer** — Roll a New World Every Time · v0.12.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635)
 - **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
-- **Would You Rather** — Pick Your Poison · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
+- **Would You Rather** — Pick Your Poison · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes** · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
 
@@ -77,4 +77,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-07 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-08 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
