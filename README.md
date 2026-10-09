@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-30 mods, 11,778 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 12,001 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -9,7 +9,7 @@ Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](
 _Players install nothing._
 
 - **Fuel On Demand** — Burn Fuel Only While Working · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
-- **Drone Automation Kit** — Junk Drones Do Your Chores · v0.10.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
+- **Drone Automation Kit** — Junk Drones Do Your Chores · v0.10.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
 - **Turret Resupply** — Turrets Reload From Your Ammo Boxes · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
 - **Loot Magnet** — Loot That Collects Itself · v1.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
@@ -77,4 +77,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-08 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-09 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
