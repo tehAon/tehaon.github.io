@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-30 mods, 12,001 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 12,263 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -27,7 +27,7 @@ _Players install nothing._
 _Install it for yourself, any server._
 
 - **Nearby Storage** — Craft From Containers and Quick Stack (Client-Side) · v0.19.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
-- **POI Map** — Every POI Named and Searchable · v0.10.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
+- **POI Map** — Every POI Named and Searchable · v0.10.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
 - **ScoutMap** — MiniMap That Knows the Buildings · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **Control Panel** — Every Mod's Settings and Hotkeys in One Screen · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
@@ -77,4 +77,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-09 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-11 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
