@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-30 mods, 12,737 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 12,741 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -12,7 +12,7 @@ _Players install nothing._
 - **Drone Automation Kit** — Junk Drones Do Your Chores · v0.10.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
 - **Turret Resupply** — Turrets Reload From Your Ammo Boxes · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
-- **Loot Magnet** — Loot That Collects Itself · v1.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
+- **Loot Magnet** — Loot That Collects Itself · v1.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
 - **SteadyFrame** — Horde-Night Performance · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598)
 - **Mindless Zombies** — Feral Zombie AI · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558)
 - **Sandbox Settings Randomizer** — Roll a New World Every Time · v0.12.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
