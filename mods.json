@@ -80,7 +80,7 @@
    "tagline": "More Things to Wear",
    "summary": "Extra equipment slots on a new Accessories tab: a necklace, a bracelet and two rings by default, and other mods add their own - like Glider's glider slot. Worn items give their bonuses like armor and follow your world's armor rules on death. A framework: install it for a mod that uses it. Server and every client, EAC off.",
    "version": "0.4.3",
-   "downloads": 544,
+   "downloads": 546,
    "endorsements": 13,
    "category": "User Interface",
    "created": "2026-09-17",
@@ -304,7 +304,7 @@
    "install": "client",
    "picture_url": "https://staticdelivery.nexusmods.com/mods/1059/images/11137/11137-1791918208-1650962597.png",
    "nexus_url": "https://www.nexusmods.com/7daystodie/mods/11137",
-   "modsite_url": null,
+   "modsite_url": "https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side",
    "image": "img/11137.webp"
   },
   {

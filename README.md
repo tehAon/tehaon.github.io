@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-30 mods, 12,735 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+30 mods, 12,737 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -32,7 +32,7 @@ _Install it for yourself, any server._
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **Control Panel** — Every Mod's Settings and Hotkeys in One Screen · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
 - **Quest Biome Indicator** — See the Biome Before You Take the Job · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
-- **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.12.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137)
+- **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.12.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
 - **SteadyView** — Adaptive Graphics That See the Fight Coming · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794)
 - **Sound Radar** — See What You Cannot Hear · v0.10.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
