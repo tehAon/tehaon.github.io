@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-31 mods, 13,006 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+31 mods, 13,075 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -38,7 +38,7 @@ _Install it for yourself, any server._
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
 - **Queue Priority** — Reorder And Split Jobs · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
-- **Auto Harvest** — Pick Plants as You Walk (Client-Side) · v0.3.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
+- **Auto Harvest** — Pick Plants as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 
 ## Server + clients
 
@@ -77,4 +77,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-15 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-16 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
