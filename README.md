@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-31 mods, 13,083 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+32 mods, 13,318 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -37,14 +37,15 @@ _Install it for yourself, any server._
 - **Sound Radar** — See What You Cannot Hear · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
 - **Queue Priority** — Reorder And Split Jobs · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
-- **Fuel Top-Off** — One Key Fuels the Whole Queue · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 - **Auto Harvest** — Pick Plants as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
+- **Fuel Top-Off** — One Key Fuels the Whole Queue · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
+- **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
 
 ## Server + clients
 
 _Everyone installs it._
 
-- **Accessory Slots** — More Things to Wear · v0.4.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
+- **Accessory Slots** — More Things to Wear · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
 - **Glider** — Jump Off Anything and Float Down · v0.2.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **More Biomes** — Swamp and Blended Borders · v0.8.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
@@ -53,7 +54,7 @@ _Everyone installs it._
 
 _Works on the server or on your own client._
 
-- **Vanilla Fixes** — Six Base-Game Bugs Patched · v1.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332)
+- **Vanilla Fixes** — Six Base-Game Bugs Patched · v1.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-six-base-game-bugs-patched)
 
 ## Unreleased
 
@@ -77,4 +78,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-16 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-17 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
