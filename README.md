@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-34 mods, 13,646 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+34 mods, 13,659 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -8,7 +8,7 @@ Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](
 
 _Players install nothing._
 
-- **Fuel On Demand** — Burn Fuel Only While Working · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
+- **Fuel On Demand** — Fuel Saver - Forge and Campfire Auto Off (Server-Side) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
 - **Drone Automation Kit** — Junk Drones Do Your Chores · v0.10.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
 - **Turret Resupply** — Turrets Reload From Your Ammo Boxes · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
