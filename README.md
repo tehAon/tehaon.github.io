@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-34 mods, 14,346 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+34 mods, 14,347 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -10,10 +10,10 @@ _Players install nothing._
 
 - **Fuel On Demand** — Fuel Saver - Stop Fuel Waste - Forge and Campfire Auto Off (Server-Side) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
 - **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
-- **Turret Resupply** — Turrets Reload From Your Ammo Boxes · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
+- **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
 - **Loot Magnet** — Loot That Collects Itself · v1.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
-- **SteadyFrame** — Horde-Night Performance · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598)
+- **SteadyFrame** — Horde-Night FPS and Performance · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598)
 - **Mindless Zombies** — Feral Zombie AI · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558)
 - **Sandbox Settings Randomizer** — Roll a New World Every Time · v0.12.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635)
@@ -37,7 +37,7 @@ _Install it for yourself, any server._
 - **Sound Radar** — See What You Cannot Hear · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
 - **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
-- **Auto Harvest** — Pick Plants as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
+- **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.15.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
@@ -47,7 +47,7 @@ _Install it for yourself, any server._
 _Everyone installs it._
 
 - **Accessory Slots** — More Things to Wear · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
-- **Glider** — Jump Off Anything and Float Down · v0.2.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
+- **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.2.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
