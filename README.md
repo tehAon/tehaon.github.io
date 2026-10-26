@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-34 mods, 14,482 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+34 mods, 14,678 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -33,12 +33,12 @@ _Install it for yourself, any server._
 - **Control Panel** — Mod Settings and Hotkeys in One Screen (Client-Side) · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
 - **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.13.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
 - **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
-- **SteadyView** — Adaptive Graphics That See the Fight Coming (Client-Side) · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794)
+- **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794)
 - **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
-- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
-- **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.15.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
+- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
+- **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
 
@@ -80,4 +80,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-25 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-26 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
