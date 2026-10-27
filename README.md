@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-34 mods, 14,900 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 14,905 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -21,6 +21,7 @@ _Players install nothing._
 - **Would You Rather** — Pick Your Poison (Server-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders (Server-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes (Server-Side)** · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
+- **Dread** — Halloween Horror and Fear Meter (Server-Side) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-halloween-horror-and-fear-meter-server-side)
 
 ## Client
 

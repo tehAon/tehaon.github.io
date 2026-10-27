@@ -26,7 +26,7 @@
    "tagline": "Craft From Containers and QuickStack (Client-Side)",
    "summary": "Craft from storage containers, quick stack and fetch \u2014 client-side, nothing to install on the server (EAC off). The crafting window counts nearby boxes as your backpack, and Craft pulls what it needs. One key stashes your haul into every box around you; another fetches back exactly what you're short of. Formerly Stash n' Fetch.",
    "version": "0.27.1",
-   "downloads": 2152,
+   "downloads": 2156,
    "endorsements": 38,
    "category": "Crafting",
    "created": "2026-07-13",
@@ -134,7 +134,7 @@
    "tagline": "Swamp and Blended Borders",
    "summary": "New biomes. A swamp with bald cypress, crocodiles, mist, ponds, peat, loot and a trading post. Thickets of dense forest full of deer, rabbits and boar. A transition biome along every border, so snow no longer meets desert at a wall. World generation paints them into every new world. Server + every client, EAC off.",
    "version": "0.8.3",
-   "downloads": 488,
+   "downloads": 489,
    "endorsements": 27,
    "category": "Environment",
    "created": "2026-10-02",
@@ -612,6 +612,24 @@
    "nexus_url": "https://www.nexusmods.com/7daystodie/mods/12096",
    "modsite_url": null,
    "image": "img/12096.webp"
+  },
+  {
+   "dir": "Dread",
+   "id": 13523,
+   "name": "Dread",
+   "tagline": "Halloween Horror and Fear Meter (Server-Side)",
+   "summary": "EARLY ACCESS. Seven nights of Halloween horror, each worse than the last: a fear meter, a world that creaks and goes dark, things that are not there, and something that hunts you. Night 7 is Halloween. Trick-or-treat, grave robbing. Single player or server; joiners install nothing.",
+   "version": "0.5.0",
+   "downloads": 0,
+   "endorsements": 0,
+   "category": "Gameplay",
+   "created": "2026-10-27",
+   "updated": "2026-10-27",
+   "install": "server",
+   "picture_url": "https://staticdelivery.nexusmods.com/mods/1059/images/13523/13523-1793101258-1390791184.png",
+   "nexus_url": "https://www.nexusmods.com/7daystodie/mods/13523",
+   "modsite_url": "https://7daystodiemods.com/mods/tehaons-dread-halloween-horror-and-fear-meter-server-side",
+   "image": "img/13523.webp"
   }
  ],
  "unreleased": [
