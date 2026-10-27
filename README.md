@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-34 mods, 14,887 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+34 mods, 14,900 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -56,7 +56,7 @@ _Everyone installs it._
 
 _Works on the server or on your own client._
 
-- **Vanilla Fixes** — Six Base-Game Bugs Patched · v1.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-six-base-game-bugs-patched)
+- **Vanilla Fixes** — Thirteen Base-Game Bugs Patched · v1.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-thirteen-base-game-bugs-patched)
 
 ## Unreleased
 
