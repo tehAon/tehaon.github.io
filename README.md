@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-34 mods, 14,809 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+34 mods, 14,887 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -26,7 +26,7 @@ _Players install nothing._
 
 _Install it for yourself, any server._
 
-- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.27.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
+- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.27.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
 - **POI Map** — Every POI Named and Searchable (Client-Side) · v0.10.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
 - **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
@@ -80,4 +80,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-26 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-27 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
