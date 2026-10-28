@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-35 mods, 15,056 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 15,063 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -10,7 +10,7 @@ _Players install nothing._
 
 - **Fuel On Demand** — Fuel Saver - Stop Fuel Waste - Forge and Campfire Auto Off (Server-Side) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
 - **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
-- **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes (Server-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
+- **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes (Server-Side) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 (Server-Side) · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
 - **Loot Magnet** — Loot That Collects Itself (Server-Side) · v1.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
 - **SteadyFrame** — Horde-Night FPS and Performance (Server-Side) · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598)
