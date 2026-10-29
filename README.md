@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-35 mods, 15,243 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 15,249 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -67,7 +67,6 @@ _In progress. Nothing to download yet._
 - **Battle Log** — Why Did I Just Die?
 - **Blueprint Ghost** — Save and Project Your Builds
 - **Confetti Shotgun**
-- **Drone Hive** — Purpose-Built Worker Drones
 - **Focus** — Live Goal Coach and XP Meter
 - **Horde Path** — See How Zombies Will Reach You
 - **Master Station** — Put Your Spare Workstations to Work
