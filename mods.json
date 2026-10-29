@@ -26,7 +26,7 @@
    "tagline": "Craft From Containers and QuickStack (Client-Side)",
    "summary": "Craft from storage containers, quick stack and fetch \u2014 client-side, nothing to install on the server (EAC off). The crafting window counts nearby boxes as your backpack, and Craft pulls what it needs. One key stashes your haul into every box around you; another fetches back exactly what you're short of. Formerly Stash n' Fetch.",
    "version": "0.27.1",
-   "downloads": 2234,
+   "downloads": 2235,
    "endorsements": 40,
    "category": "Crafting",
    "created": "2026-07-13",
@@ -457,7 +457,7 @@
    "name": "Autopilot",
    "tagline": "Drive Walk or Fly to Your Waypoint (Client-Side)",
    "summary": "Client-side, works on any server. Set a map marker, press Alt+\\ and be taken there - on foot, bicycle, minibike, motorcycle or 4x4, round cliffs, water, trees and zombies, through a trader's gate by honking it open. A gyrocopter takes off, flies there and can land itself. Take the controls back any time. Game 3.2-3.3, EAC off.",
-   "version": "0.16.1",
+   "version": "0.16.2",
    "downloads": 136,
    "endorsements": 4,
    "category": "Gameplay",
@@ -660,6 +660,13 @@
    "tagline": "",
    "install": "server",
    "summary": "Adds the Confetti Choke, a shotgun attachment that sprays confetti out of the barrel on every shot. Pure XML on vanilla assets."
+  },
+  {
+   "dir": "DroneHive",
+   "name": "Drone Hive",
+   "tagline": "Purpose-Built Worker Drones",
+   "install": "both",
+   "summary": "Worker drones with one job each, and you can run several at once: a Harvester parks on your farm and reaps and replants it, a Salvager follows you and strips wrecks, and a hive block takes whatever they collect."
   },
   {
    "dir": "Focus",
