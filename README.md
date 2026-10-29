@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-35 mods, 15,063 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 15,198 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -17,8 +17,8 @@ _Players install nothing._
 - **Mindless Zombies** — Feral Zombie AI (Server-Side) · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558)
 - **Sandbox Settings Randomizer** — Roll a New World Every Time (Server-Side) · v0.12.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored (Server-Side) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635)
-- **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You (Server-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
 - **Would You Rather** — Pick Your Poison (Server-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
+- **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You (Server-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders (Server-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes (Server-Side)** · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
 - **Dread** — Halloween Horror and Fear Meter (Server and Client) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-halloween-horror-and-fear-meter-server-and-client)
@@ -40,8 +40,8 @@ _Install it for yourself, any server._
 - **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
-- **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
+- **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 
 ## Server + clients
 
@@ -67,7 +67,6 @@ _In progress. Nothing to download yet._
 - **Battle Log** — Why Did I Just Die?
 - **Blueprint Ghost** — Save and Project Your Builds
 - **Confetti Shotgun**
-- **Drone Hive** — Purpose-Built Worker Drones
 - **Focus** — Live Goal Coach and XP Meter
 - **Horde Path** — See How Zombies Will Reach You
 - **Master Station** — Put Your Spare Workstations to Work
@@ -81,4 +80,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-28 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-10-29 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
