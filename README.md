@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-35 mods, 15,198 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 15,243 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -47,8 +47,8 @@ _Install it for yourself, any server._
 
 _Everyone installs it._
 
-- **Accessory Slots** — More Things to Wear · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
-- **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
+- **Accessory Slots** — More Things to Wear · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
+- **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
@@ -67,6 +67,7 @@ _In progress. Nothing to download yet._
 - **Battle Log** — Why Did I Just Die?
 - **Blueprint Ghost** — Save and Project Your Builds
 - **Confetti Shotgun**
+- **Drone Hive** — Purpose-Built Worker Drones
 - **Focus** — Live Goal Coach and XP Meter
 - **Horde Path** — See How Zombies Will Reach You
 - **Master Station** — Put Your Spare Workstations to Work
