@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-35 mods, 15,323 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 15,404 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -21,7 +21,7 @@ _Players install nothing._
 - **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You (Server-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders (Server-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes (Server-Side)** · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
-- **Dread** — Seven Nights of Halloween (Server and Client) · v0.7.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-halloween-horror-and-fear-meter-server-and-client)
+- **Dread** — Seven Nights of Horror (Server and Client) · v0.9.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-halloween-horror-and-fear-meter-server-and-client)
 
 ## Client
 
@@ -38,8 +38,8 @@ _Install it for yourself, any server._
 - **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
-- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
+- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 
