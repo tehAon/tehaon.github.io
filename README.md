@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-35 mods, 15,318 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+35 mods, 15,323 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -30,7 +30,7 @@ _Install it for yourself, any server._
 - **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.27.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
 - **POI Map** — Every POI Named and Searchable (Client-Side) · v0.10.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
 - **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
-- **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
+- **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **Control Panel** — Mod Settings and Hotkeys in One Screen (Client-Side) · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
 - **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.13.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
 - **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it)
