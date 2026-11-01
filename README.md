@@ -51,7 +51,7 @@ _Everyone installs it._
 - **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
-- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-scarecrow-ghost-and-mummy-cosmetic-skins-server-and-client)
+- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
 
 ## Either side
