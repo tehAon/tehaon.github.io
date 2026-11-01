@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-36 mods, 15,590 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+36 mods, 15,625 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -51,7 +51,7 @@ _Everyone installs it._
 - **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
-- **Halloween Costumes** — Scarecrow Ghost and Mummy Cosmetic Skins (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-scarecrow-ghost-and-mummy-cosmetic-skins-server-and-client)
+- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-scarecrow-ghost-and-mummy-cosmetic-skins-server-and-client)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
 
 ## Either side
@@ -81,4 +81,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-10-31 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-01 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
