@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-36 mods, 15,846 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+36 mods, 15,857 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -11,8 +11,8 @@ _Players install nothing._
 - **Fuel On Demand** — Fuel Saver - Stop Fuel Waste - Forge and Campfire Auto Off (Server-Side) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
 - **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.13.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
 - **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes (Server-Side) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
-- **Mega Trees (25x)** — One Seed and the Wood of 25 (Server-Side) · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
 - **Loot Magnet** — Loot That Collects Itself (Server-Side) · v1.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
+- **Mega Trees (25x)** — One Seed and the Wood of 25 (Server-Side) · v1.8.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
 - **SteadyFrame** — Horde-Night FPS and Performance (Server-Side) · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598)
 - **Mindless Zombies** — Feral Zombie AI (Server-Side) · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558)
 - **Sandbox Settings Randomizer** — Roll a New World Every Time (Server-Side) · v0.12.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
@@ -48,7 +48,7 @@ _Install it for yourself, any server._
 _Everyone installs it._
 
 - **Accessory Slots** — More Things to Wear · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
-- **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
+- **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
