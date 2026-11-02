@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-36 mods, 15,812 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+36 mods, 15,840 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -19,7 +19,7 @@ _Players install nothing._
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored (Server-Side) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635)
 - **Would You Rather** — Pick Your Poison (Server-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
 - **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You (Server-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
-- **Dread** — Seven Nights of Horror (Server and Client) · v0.10.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
+- **Dread** — Seven Nights of Horror (Server and Client) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders (Server-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes (Server-Side)** · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
 
