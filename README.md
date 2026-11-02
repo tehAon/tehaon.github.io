@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-36 mods, 15,763 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+36 mods, 15,812 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -27,7 +27,7 @@ _Players install nothing._
 
 _Install it for yourself, any server._
 
-- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.27.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
+- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.28.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
 - **POI Map** — Every POI Named and Searchable (Client-Side) · v0.10.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
 - **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
