@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-36 mods, 15,857 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+37 mods, 15,924 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -22,6 +22,7 @@ _Players install nothing._
 - **Dread** — Seven Nights of Horror (Server and Client) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders (Server-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
 - **Hidden Passcodes (Server-Side)** · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12096)
+- **Groundskeeper** — Automatic Chunk Reset and Save Cleanup for Server Maintenance (Server-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13685) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-groundskeeper-automatic-chunk-reset-and-save-cleanup-for-server-maintenance-server-side)
 
 ## Client
 
@@ -36,8 +37,8 @@ _Install it for yourself, any server._
 - **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it)
 - **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
 - **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
-- **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
+- **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
 - **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
@@ -51,14 +52,14 @@ _Everyone installs it._
 - **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.3.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
-- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
+- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-scarecrow-ghost-and-mummy-cosmetic-skins-server-and-client)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
 
 ## Either side
 
 _Works on the server or on your own client._
 
-- **Vanilla Fixes** — Thirteen Base-Game Bugs Patched · v1.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-thirteen-base-game-bugs-patched)
+- **Vanilla Fixes** — Fourteen Base-Game Bugs Patched · v1.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-fourteen-base-game-bugs-patched)
 
 ## Unreleased
 
@@ -81,4 +82,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-02 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-03 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
