@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-39 mods, 16,167 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+39 mods, 16,182 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -44,7 +44,7 @@ _Install it for yourself, any server._
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 - **Robotic Turret Reload** — Reload Junk Turrets From Your Backpack (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13697) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-robotic-turret-reload-reload-junk-turrets-from-your-backpack-client-side)
-- **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side)
+- **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side)
 
 ## Server + clients
 
