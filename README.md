@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-38 mods, 16,049 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+38 mods, 16,071 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -17,7 +17,7 @@ _Players install nothing._
 - **Mindless Zombies** — Feral Zombie AI (Server-Side) · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558)
 - **Sandbox Settings Randomizer** — Roll a New World Every Time (Server-Side) · v0.12.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time)
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored (Server-Side) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635)
-- **Would You Rather** — Pick Your Poison (Server-Side) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison)
+- **Would You Rather** — Pick Your Poison (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison-server-and-client)
 - **Chat Events** — Let Your Chat Drop Hordes Bosses and Debuffs on You (Server-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11846)
 - **Dread** — Seven Nights of Horror (Server and Client) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
 - **Player Beacon** — Let Your Bot See Vehicles Claims and Traders (Server-Side) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11943)
