@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-43 mods, 17,152 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+43 mods, 17,391 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -32,15 +32,15 @@ _Install it for yourself, any server._
 - **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **Control Panel** — Mod Settings and Hotkeys in One Screen (Client-Side) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
-- **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.13.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
+- **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.13.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
 - **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it)
 - **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
-- **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
+- **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
 - **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
-- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
-- **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
+- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs)
+- **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
 - **Robotic Turret Reload** — Reload Junk Turrets From Your Backpack (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13697) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-robotic-turret-reload-reload-junk-turrets-from-your-backpack-client-side)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
 - **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side)
@@ -49,14 +49,14 @@ _Install it for yourself, any server._
 
 _Everyone installs it._
 
-- **Accessory Slots** — More Things to Wear · v0.8.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
-- **Glider** — Jump Off Anything and Float Down Like a Parachute · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
+- **Accessory Slots** — More Things to Wear · v0.8.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
+- **Glider** — Jump Off Anything and Float Down Like a Parachute (Server and Client) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
-- **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client)
 - **Boats** — Nomad Houseboat Mobile Base - Hovercraft and Rowboat · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13815) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-boats-houseboat-hovercraft-and-rowboat-server-and-client)
 - **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client)
+- **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
 - **Dread** — Seven Nights of Horror (Server and Client) · v0.11.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
 - **Would You Rather** — Pick Your Poison (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison-server-and-client)
@@ -88,4 +88,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-09 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-10 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
