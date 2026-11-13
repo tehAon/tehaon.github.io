@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-47 mods, 18,352 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+47 mods, 18,973 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -34,8 +34,8 @@ _Install it for yourself, any server._
 - **Control Panel** — Mod Settings and Hotkeys in One Screen (Client-Side) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen)
 - **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.13.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
 - **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it)
-- **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
 - **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
+- **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
 - **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139)
@@ -43,8 +43,8 @@ _Install it for yourself, any server._
 - **Robotic Turret Reload** — Reload Junk Turrets From Your Backpack (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13697) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-robotic-turret-reload-reload-junk-turrets-from-your-backpack-client-side)
 - **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side)
 - **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759)
-- **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side)
 - **Resource Vision** — Best Tool Harvest Resources and XP at a Glance (Client-Side) · v0.1.9 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13920) · [7daystodiemods](https://7daystodiemods.com/mods/resource-vision-best-tool-harvest-resources-and-xp-at-a-glance-client-side)
+- **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side)
 
 ## Server + clients
 
@@ -56,14 +56,14 @@ _Everyone installs it._
 - **Zipline** — Ride a Cable Between Buildings · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client)
 - **Boats** — Nomad Houseboat Mobile Base - Hovercraft and Rowboat · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13815) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-boats-houseboat-hovercraft-and-rowboat-server-and-client)
-- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
-- **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client)
 - **Hitch** — Towing Framework - Trailers Road Trains and Push Carts · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13888) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-towing-framework-trailers-road-trains-and-push-carts-server-and-client)
 - **Rigs** — Nomad Trailers and Road Trains - Mobile Base Workstations · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13889) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rigs-nomad-trailers-and-road-trains-mobile-base-workstations-server-and-client)
+- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
+- **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client)
+- **Hitch for Bdub's Vehicles** — Tow Trailers With Bdub's Cars and Trucks · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13924) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-bdubs-vehicles-tow-trailers-with-bdubs-cars-and-trucks-server-and-client)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
 - **Dread** — Seven Nights of Horror (Server and Client) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
 - **Would You Rather** — Pick Your Poison (Server and Client) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison-server-and-client)
-- **Hitch for Bdub's Vehicles** — Tow Trailers With Bdub's Cars and Trucks · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13924) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-bdubs-vehicles-tow-trailers-with-bdubs-cars-and-trucks-server-and-client)
 
 ## Either side
 
@@ -92,4 +92,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-12 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-13 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
