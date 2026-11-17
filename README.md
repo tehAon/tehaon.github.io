@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-47 mods, 20,966 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+48 mods, 21,353 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -9,7 +9,7 @@ Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](
 _Players install nothing._
 
 - **Fuel On Demand** — Fuel Saver - Stop Fuel Waste - Forge and Campfire Auto Off (Server-Side) · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working)
-- **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.13.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
+- **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.13.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores)
 - **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes (Server-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes)
 - **Loot Magnet** — Loot That Collects Itself (Server-Side) · v1.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536)
 - **Mega Trees (25x)** — One Seed and the Wood of 25 (Server-Side) · v1.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135)
@@ -27,7 +27,7 @@ _Players install nothing._
 
 _Install it for yourself, any server._
 
-- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.29.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
+- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.29.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side)
 - **POI Map** — Every POI Named and Searchable (Client-Side) · v0.10.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable)
 - **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself)
 - **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729)
@@ -54,16 +54,17 @@ _Everyone installs it._
 - **Zipline** — Ride a Cable Between Buildings · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
 - **Glider** — Jump Off Anything and Float Down Like a Parachute (Server and Client) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
-- **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client)
+- **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.5 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client)
 - **Boats** — Nomad Houseboat Mobile Base - Hovercraft and Rowboat · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13815) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-boats-houseboat-hovercraft-and-rowboat-server-and-client)
-- **Hitch** — Towing Framework - Trailers Road Trains and Push Carts · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13888) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-towing-framework-trailers-road-trains-and-push-carts-server-and-client)
-- **Rigs** — Nomad Trailers and Road Trains - Mobile Base Workstations · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13889) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rigs-nomad-trailers-and-road-trains-mobile-base-workstations-server-and-client)
-- **Hitch for Bdub's Vehicles** — Tow Trailers With Bdub's Cars and Trucks · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13924) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-bdubs-vehicles-tow-trailers-with-bdubs-cars-and-trucks-server-and-client)
+- **Hitch** — Towing Framework - Trailers Road Trains and Push Carts · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13888) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-towing-framework-trailers-road-trains-and-push-carts-server-and-client)
+- **Rigs** — Nomad Trailers and Road Trains - Mobile Base Workstations · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13889) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rigs-nomad-trailers-and-road-trains-mobile-base-workstations-server-and-client)
+- **Hitch for Bdub's Vehicles** — Tow Trailers With Bdub's Cars and Trucks · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13924) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-bdubs-vehicles-tow-trailers-with-bdubs-cars-and-trucks-server-and-client)
 - **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.3.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client)
 - **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client)
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips)
 - **Dread** — Seven Nights of Horror (Server and Client) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client)
 - **Would You Rather** — Pick Your Poison (Server and Client) · v0.3.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison-server-and-client)
+- **Hitch for Vehicle Additions** — Tow Trailers With Cars Trucks Buses and Semis · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14054) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-vehicle-additions-tow-trailers-with-cars-trucks-buses-and-semis-server-and-client)
 
 ## Either side
 
@@ -92,4 +93,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-16 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-17 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
