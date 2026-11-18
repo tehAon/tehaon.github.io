@@ -1,8 +1,8 @@
 # tehAon · 7 Days to Die mods
 
-48 mods, 21,847 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+48 mods, 22,082 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
-Bugs, help and update news: the tehAon modding Discord, [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
+Join the tehAon Discord: test fixes before they ship, request mods or features, vote on what I build next, get bug help. All free: [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
 ## Server only
 
