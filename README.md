@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-48 mods, 22,082 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+48 mods, 22,434 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Join the tehAon Discord: test fixes before they ship, request mods or features, vote on what I build next, get bug help. All free: [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -35,8 +35,8 @@ _Install it for yourself, any server._
 - **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side)
 - **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side)
 - **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.13.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side)
-- **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it)
 - **Robotic Turret Reload** — Reload Junk Turrets From Your Backpack (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13697) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-robotic-turret-reload-reload-junk-turrets-from-your-backpack-client-side)
+- **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it)
 - **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656)
 - **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear)
 - **Resource Vision** — Best Tool Harvest Resources and XP at a Glance (Client-Side) · v0.1.11 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13920) · [7daystodiemods](https://7daystodiemods.com/mods/resource-vision-best-tool-harvest-resources-and-xp-at-a-glance-client-side)
@@ -93,4 +93,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-18 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-19 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
