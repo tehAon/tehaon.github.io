@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-48 mods, 22,434 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+48 mods, 22,839 unique downloads on Nexus Mods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Join the tehAon Discord: test fixes before they ship, request mods or features, vote on what I build next, get bug help. All free: [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -52,9 +52,9 @@ _Everyone installs it._
 
 - **Accessory Slots** — More Things to Wear · v0.8.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear)
 - **Zipline** — Ride a Cable Between Buildings · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings)
+- **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.5 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client)
 - **Glider** — Jump Off Anything and Float Down Like a Parachute (Server and Client) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down)
 - **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders)
-- **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.5 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client)
 - **Boats** — Nomad Houseboat Mobile Base - Hovercraft and Rowboat · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13815) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-boats-houseboat-hovercraft-and-rowboat-server-and-client)
 - **Hitch** — Towing Framework - Trailers Road Trains and Push Carts · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13888) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-towing-framework-trailers-road-trains-and-push-carts-server-and-client)
 - **Rigs** — Nomad Trailers and Road Trains - Mobile Base Workstations · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13889) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rigs-nomad-trailers-and-road-trains-mobile-base-workstations-server-and-client)
@@ -93,4 +93,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-19 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-20 from the live Nexus pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
