@@ -1,6 +1,6 @@
 # tehAon · 7 Days to Die mods
 
-52 mods, 38,281 downloads on Nexus Mods and 7daystodiemods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
+52 mods, 38,750 downloads on Nexus Mods and 7daystodiemods. Browse them with pictures at **[tehaon.github.io](https://tehaon.github.io/)**. Every download lives on [Nexus Mods](https://next.nexusmods.com/profile/tehAon) (and [7daystodiemods.com](https://7daystodiemods.com/profiles/kb654687) for some).
 
 Join the tehAon Discord: test fixes before they ship, request mods or features, vote on what I build next, get bug help. All free: [discord.gg/DYCzCPSvwa](https://discord.gg/DYCzCPSvwa).
 
@@ -8,14 +8,14 @@ Join the tehAon Discord: test fixes before they ship, request mods or features, 
 
 _Players install nothing._
 
-- **Fuel On Demand** — Fuel Saver - Stop Fuel Waste - Forge and Campfire Auto Off (Server-Side) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working) · 6,429 downloads
-- **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.13.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores) · 2,022 downloads
-- **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes (Server-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes) · 1,715 downloads
-- **Loot Magnet** — Loot That Collects Itself (Server-Side) · v1.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536) · 772 downloads
-- **Mega Trees (25x)** — One Seed and the Wood of 25 (Server-Side) · v1.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135) · 437 downloads
-- **SteadyFrame** — Horde-Night FPS and Performance (Server-Side) · v0.6.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598) · 359 downloads
-- **Mindless Zombies** — Feral Zombie AI (Server-Side) · v0.5.5 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558) · 255 downloads
-- **RWG Islands** — Island Maps from Random World Generation (Server-Side) · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13762) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rwg-islands-island-maps-from-random-world-generation-server-side) · 252 downloads
+- **Fuel On Demand** — Fuel Saver - Stop Fuel Waste - Forge and Campfire Auto Off (Server-Side) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11240) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fuel-on-demand-burn-fuel-only-while-working) · 6,482 downloads
+- **Drone Automation Kit** — Junk Drones Do Your Chores (Server-Side) · v0.13.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11179) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-drone-automation-kit-junk-drones-do-your-chores) · 2,038 downloads
+- **Turret Resupply** — Auto Turrets Reload From Your Ammo Boxes (Server-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12646) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-turret-resupply-turrets-reload-from-your-ammo-boxes) · 1,738 downloads
+- **Loot Magnet** — Loot That Collects Itself (Server-Side) · v1.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11536) · 787 downloads
+- **Mega Trees (25x)** — One Seed and the Wood of 25 (Server-Side) · v1.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11135) · 440 downloads
+- **SteadyFrame** — Horde-Night FPS and Performance (Server-Side) · v0.6.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11598) · 361 downloads
+- **RWG Islands** — Island Maps from Random World Generation (Server-Side) · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13762) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rwg-islands-island-maps-from-random-world-generation-server-side) · 256 downloads
+- **Mindless Zombies** — Feral Zombie AI (Server-Side) · v0.5.5 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11558) · 256 downloads
 - **Sandbox Settings Randomizer** — Roll a New World Every Time (Server-Side) · v0.12.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11134) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sandbox-settings-randomizer-roll-a-new-world-every-time) · 210 downloads
 - **ProjectZ-WalkerSims Boss Fix** — Vanilla Boss Rates Restored (Server-Side) · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11635) · 73 downloads
 - **Groundskeeper** — Automatic Chunk Reset and Save Cleanup for Server Maintenance (Server-Side) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13685) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-groundskeeper-automatic-chunk-reset-and-save-cleanup-for-server-maintenance-server-side) · 64 downloads
@@ -27,54 +27,54 @@ _Players install nothing._
 
 _Install it for yourself, any server._
 
-- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.30.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side) · 5,977 downloads
+- **Nearby Storage** — Craft From Containers and QuickStack (Client-Side) · v0.30.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11251) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-nearby-storage-craft-from-containers-and-quick-stack-client-side) · 6,028 downloads
 - **POI Map** — Every POI Named and Searchable (Client-Side) · v0.10.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11339) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-poi-map-every-poi-named-and-searchable) · 1,334 downloads
-- **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself) · 859 downloads
-- **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side) · 775 downloads
-- **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side) · 751 downloads
-- **Control Panel** — Mod Settings and Hotkeys in One Screen (Client-Side) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen) · 727 downloads
-- **Robotic Turret Reload** — Reload Junk Turrets From Your Backpack (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13697) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-robotic-turret-reload-reload-junk-turrets-from-your-backpack-client-side) · 545 downloads
-- **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729) · 494 downloads
-- **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.14.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side) · 458 downloads
-- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs) · 392 downloads
-- **Resource Vision** — Best Tool Harvest Resources and XP at a Glance (Client-Side) · v0.1.11 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13920) · [7daystodiemods](https://7daystodiemods.com/mods/resource-vision-best-tool-harvest-resources-and-xp-at-a-glance-client-side) · 367 downloads
-- **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear) · 337 downloads
-- **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it) · 330 downloads
+- **Auto Nailgun** — Hold It and Your Base Repairs and Upgrades Itself (Client-Side) · v0.5.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12050) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-nailgun-hold-it-and-your-base-repairs-and-upgrades-itself) · 863 downloads
+- **Autopilot** — Drive Walk or Fly to Your Waypoint (Client-Side) · v0.16.4 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13282) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-autopilot-drive-walk-or-fly-to-your-waypoint-client-side) · 787 downloads
+- **Auto Harvest** — Pick Up Crops as You Walk (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13173) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-auto-harvest-pick-plants-as-you-walk-client-side) · 763 downloads
+- **Control Panel** — Mod Settings and Hotkeys in One Screen (Client-Side) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11761) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-control-panel-every-mods-settings-and-hotkeys-in-one-screen) · 735 downloads
+- **Robotic Turret Reload** — Reload Junk Turrets From Your Backpack (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13697) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-robotic-turret-reload-reload-junk-turrets-from-your-backpack-client-side) · 563 downloads
+- **ScoutMap** — MiniMap That Knows the Buildings (Client-Side) · v0.4.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11729) · 495 downloads
+- **Material Tracker** — Loot and Resource Finder (Client-Side) · v0.14.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11137) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-material-tracker-loot-and-resource-finder-client-side) · 459 downloads
+- **Queue Priority** — Reorder and Split Your Crafting Queue (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11991) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-queue-priority-reorder-and-split-jobs) · 395 downloads
+- **Resource Vision** — Best Tool Harvest Resources and XP at a Glance (Client-Side) · v0.1.11 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13920) · [7daystodiemods](https://7daystodiemods.com/mods/resource-vision-best-tool-harvest-resources-and-xp-at-a-glance-client-side) · 374 downloads
+- **Sound Radar** — See What You Cannot Hear (Client-Side) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11781) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-sound-radar-see-what-you-cannot-hear) · 338 downloads
+- **SteadyView** — Pick a Frame Rate and It Holds It (Client-Side) · v0.9.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11794) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-steadyview-pick-a-frame-rate-it-holds-it) · 332 downloads
 - **Quest Biome Indicator** — See the Biome Before You Take a Trader Quest (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11656) · 280 downloads
-- **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side) · 239 downloads
-- **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139) · 173 downloads
-- **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side) · 146 downloads
+- **Mod Finder** — Every Mod That Fits (Client-Side) · v0.1.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13257) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mod-finder-every-mod-that-fits-client-side) · 242 downloads
+- **ProjectZ MasteryMark** — Know Which Books You Can Scrap (Client-Side) · v0.4.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12139) · 175 downloads
+- **Build Drone** — Fly a Camera Drone Over Your Land Claim and Build From Above (Client-Side) · v0.2.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13699) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-build-drone-fly-a-camera-drone-over-your-land-claim-and-build-from-above-client-side) · 148 downloads
 - **Fuel Top-Off** — One Key Fuels the Whole Queue (Client-Side) · v0.2.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/11759) · 92 downloads
 
 ## Server + clients
 
 _Everyone installs it._
 
-- **Accessory Slots** — More Things to Wear · v0.8.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear) · 1,640 downloads
-- **Zipline** — Ride a Cable Between Buildings · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings) · 1,367 downloads
-- **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders) · 1,263 downloads
-- **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.6 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client) · 1,062 downloads
-- **Glider** — Jump Off Anything and Float Down Like a Parachute (Server and Client) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down) · 1,054 downloads
-- **Rigs** — Nomad Trailers and Road Trains - Mobile Base Workstations · v0.6.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13889) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rigs-nomad-trailers-and-road-trains-mobile-base-workstations-server-and-client) · 897 downloads
-- **Hitch** — Towing Framework - Trailers Road Trains and Push Carts · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13888) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-towing-framework-trailers-road-trains-and-push-carts-server-and-client) · 888 downloads
-- **Boats** — Nomad Houseboat Mobile Base - Hovercraft and Rowboat · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13815) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-boats-houseboat-hovercraft-and-rowboat-server-and-client) · 883 downloads
-- **Hitch for Bdub's Vehicles** — Tow Trailers With Bdub's Cars and Trucks · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13924) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-bdubs-vehicles-tow-trailers-with-bdubs-cars-and-trucks-server-and-client) · 639 downloads
-- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client) · 327 downloads
-- **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client) · 255 downloads
-- **Hitch for Vehicle Additions** — Tow Trailers With Cars Trucks Buses and Semis · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14054) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-vehicle-additions-tow-trailers-with-cars-trucks-buses-and-semis-server-and-client) · 172 downloads
+- **Accessory Slots** — More Things to Wear · v0.8.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12667) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-accessory-slots-more-things-to-wear) · 1,642 downloads
+- **Zipline** — Ride a Cable Between Buildings · v0.5.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12636) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-zipline-ride-a-cable-between-buildings) · 1,381 downloads
+- **More Biomes** — Swamp and Blended Borders · v0.8.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12898) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-more-biomes-swamp-and-blended-borders) · 1,268 downloads
+- **Mobile Workstations** — Nomad Mobile Base Framework · v0.4.6 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13833) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-mobile-workstations-framework-server-and-client) · 1,096 downloads
+- **Glider** — Jump Off Anything and Float Down Like a Parachute (Server and Client) · v0.4.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12668) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-glider-jump-off-anything-and-float-down) · 1,056 downloads
+- **Rigs** — Nomad Trailers and Road Trains - Mobile Base Workstations · v0.6.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13889) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-rigs-nomad-trailers-and-road-trains-mobile-base-workstations-server-and-client) · 929 downloads
+- **Hitch** — Towing Framework - Trailers Road Trains and Push Carts · v0.5.2 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13888) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-towing-framework-trailers-road-trains-and-push-carts-server-and-client) · 923 downloads
+- **Boats** — Nomad Houseboat Mobile Base - Hovercraft and Rowboat · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13815) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-boats-houseboat-hovercraft-and-rowboat-server-and-client) · 905 downloads
+- **Hitch for Bdub's Vehicles** — Tow Trailers With Bdub's Cars and Trucks · v0.2.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13924) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-bdubs-vehicles-tow-trailers-with-bdubs-cars-and-trucks-server-and-client) · 654 downloads
+- **Halloween Costumes** — Witch Sorcerer Scarecrow Ghost Mummy Cosmetic Skins (Server and Client) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13641) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-halloween-costumes-witch-sorcerer-scarecrow-ghost-mummy-cosmetic-skins-server-and-client) · 335 downloads
+- **Jeweler** — Craft Jewelry Rings Necklaces and Bracelets Worn on Your Character (Server and Client) · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13726) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-jeweler-craft-jewelry-rings-necklaces-and-bracelets-worn-on-your-character-server-and-client) · 258 downloads
+- **Hitch for Vehicle Additions** — Tow Trailers With Cars Trucks Buses and Semis · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14054) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-vehicle-additions-tow-trailers-with-cars-trucks-buses-and-semis-server-and-client) · 175 downloads
 - **Dread** — Seven Nights of Horror (Server and Client) · v0.11.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13523) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-dread-seven-nights-of-horror-server-and-client) · 110 downloads
 - **Rocket Car** — Electric Jet Car That Jumps and Kickflips · v0.1.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/13268) · [7daystodiemods](https://7daystodiemods.com/mods/rocket-car-electric-jet-car-that-jumps-and-kickflips) · 98 downloads
 - **Would You Rather** — Pick Your Poison (Server and Client) · v0.3.3 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12869) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-would-you-rather-pick-your-poison-server-and-client) · 93 downloads
-- **Hitch for Vehicle Madness** — Tow Trailers With Cars Trucks Buses and Semis · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14158) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-vehicle-madness-tow-trailers-with-cars-trucks-buses-and-semis-server-and-client) · 81 downloads
-- **Skins** — Cosmetics Framework - Custom Outfits in the Wardrobe (Server and Client) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14218) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-skins-cosmetics-framework-custom-outfits-in-the-wardrobe-server-and-client) · 46 downloads
-- **Fall Outfits** — Autumn Sweater Skirt and Flat Cap Cosmetic Skins (Server and Client) · v0.6.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14219) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fall-outfits-autumn-sweater-skirt-and-flat-cap-cosmetic-skins-server-and-client) · 20 downloads
-- **Thanksgiving Costumes** — Turkey Pilgrim Harvest King Queen Cosmetic Skins (Server and Client) · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14224) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-thanksgiving-costumes-turkey-pilgrim-harvest-king-queen-cosmetic-skins-server-and-client) · 19 downloads
+- **Hitch for Vehicle Madness** — Tow Trailers With Cars Trucks Buses and Semis · v0.1.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14158) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-hitch-for-vehicle-madness-tow-trailers-with-cars-trucks-buses-and-semis-server-and-client) · 86 downloads
+- **Skins** — Cosmetics Framework - Custom Outfits in the Wardrobe (Server and Client) · v0.5.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14218) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-skins-cosmetics-framework-custom-outfits-in-the-wardrobe-server-and-client) · 66 downloads
+- **Fall Outfits** — Autumn Sweater Skirt and Flat Cap Cosmetic Skins (Server and Client) · v0.6.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14219) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-fall-outfits-autumn-sweater-skirt-and-flat-cap-cosmetic-skins-server-and-client) · 29 downloads
+- **Thanksgiving Costumes** — Turkey Pilgrim Harvest King Queen Cosmetic Skins (Server and Client) · v0.5.1 · [Nexus](https://www.nexusmods.com/7daystodie/mods/14224) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-thanksgiving-costumes-turkey-pilgrim-harvest-king-queen-cosmetic-skins-server-and-client) · 29 downloads
 
 ## Either side
 
 _Works on the server or on your own client._
 
-- **Vanilla Fixes** — Nineteen Base-Game Bugs Patched · v1.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-nineteen-base-game-bugs-patched) · 420 downloads
+- **Vanilla Fixes** — Nineteen Base-Game Bugs Patched · v1.9.0 · [Nexus](https://www.nexusmods.com/7daystodie/mods/12332) · [7daystodiemods](https://7daystodiemods.com/mods/tehaons-vanilla-fixes-nineteen-base-game-bugs-patched) · 426 downloads
 
 ## Unreleased
 
@@ -105,4 +105,4 @@ _In progress. Nothing to download yet._
 
 ---
 
-Generated 2026-11-27 from the live Nexus and 7daystodiemods pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
+Generated 2026-11-28 from the live Nexus and 7daystodiemods pages by `tools/showcase_build.py`. Edits made here by hand are overwritten on the next build.
